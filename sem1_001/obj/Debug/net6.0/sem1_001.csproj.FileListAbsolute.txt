@@ -1,0 +1,15 @@
+C:\CsharpHomeWork\sem1_001\bin\Debug\net6.0\sem1_001.exe
+C:\CsharpHomeWork\sem1_001\bin\Debug\net6.0\sem1_001.deps.json
+C:\CsharpHomeWork\sem1_001\bin\Debug\net6.0\sem1_001.runtimeconfig.json
+C:\CsharpHomeWork\sem1_001\bin\Debug\net6.0\sem1_001.dll
+C:\CsharpHomeWork\sem1_001\bin\Debug\net6.0\sem1_001.pdb
+C:\CsharpHomeWork\sem1_001\obj\Debug\net6.0\sem1_001.csproj.AssemblyReference.cache
+C:\CsharpHomeWork\sem1_001\obj\Debug\net6.0\sem1_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpHomeWork\sem1_001\obj\Debug\net6.0\sem1_001.AssemblyInfoInputs.cache
+C:\CsharpHomeWork\sem1_001\obj\Debug\net6.0\sem1_001.AssemblyInfo.cs
+C:\CsharpHomeWork\sem1_001\obj\Debug\net6.0\sem1_001.csproj.CoreCompileInputs.cache
+C:\CsharpHomeWork\sem1_001\obj\Debug\net6.0\sem1_001.dll
+C:\CsharpHomeWork\sem1_001\obj\Debug\net6.0\refint\sem1_001.dll
+C:\CsharpHomeWork\sem1_001\obj\Debug\net6.0\sem1_001.pdb
+C:\CsharpHomeWork\sem1_001\obj\Debug\net6.0\sem1_001.genruntimeconfig.cache
+C:\CsharpHomeWork\sem1_001\obj\Debug\net6.0\ref\sem1_001.dll
