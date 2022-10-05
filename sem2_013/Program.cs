@@ -35,15 +35,15 @@ while(num<int.MaxValue)
 {
 if (num<s)
 {
-    Console.WriteLine($"строка 38   {num} {s}");
+    Console.WriteLine($"строка 38   {num} {s}");//просто выводила значения для проверки кода
     result1=num%a;
-    Console.WriteLine($"строка 40    {result1} = {num}  {a}  ");
+    Console.WriteLine($"строка 40    {result1} = {num}  {a}  ");//вывод значений для проверки кода
     if (result1>b)
     {
-        Console.WriteLine($"строка 43   {result1} {b}");
+        Console.WriteLine($"строка 43   {result1} {b}");//вывод значений для проверки кода
         result=result1/b;
     }
-    if (result1<b)
+    if (result1<b)//когда третья цифра 0
     {
         result = 0;
     }
