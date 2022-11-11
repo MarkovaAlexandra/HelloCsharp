@@ -33,34 +33,28 @@ int i=0;
 int j=0;
 for (;count>=1;count--,first++,lastStroka--,lastStolbes--)
 {
-    System.Console.WriteLine($"first {first} last {lastStroka} stolbes {lastStolbes}  ");
+    
     for ( i=first, j=first;j<=lastStolbes;j++,x++)
     {
         Spiral[i,j]=x;
-        System.Console.WriteLine($"spiral {i} {j}= {x}");
     }
-PrintArray(Spiral);
-System.Console.WriteLine();
+
 for ( i = first+1,j=lastStolbes; i <=lastStroka; i++,x++)
 {
      Spiral[i,j]=x;
-        System.Console.WriteLine($"spiral {i} {j}= {x}");
 }
-PrintArray(Spiral);
-System.Console.WriteLine();
+
 for ( i = lastStroka,j=lastStolbes-1; j >=first ; j--,x++)
 {
       Spiral[i,j]=x;
-        System.Console.WriteLine($"spiral {i} {j}= {x}");
 }
-PrintArray(Spiral);
-System.Console.WriteLine();
+
 for (i=lastStroka-1,j=first; i>=first+1;i--,x++)
 {
           Spiral[i,j]=x;
-        System.Console.WriteLine($"spiral {i} {j}= {x}");
+  
+}
+
 }
 PrintArray(Spiral);
 System.Console.WriteLine();
-}
-
